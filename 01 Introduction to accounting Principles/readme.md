@@ -57,7 +57,7 @@ Interested Parties
 
 ### The accounting equation
 
-- Assets = Capital + Liabilities
+    Assets = Capital + Liabilities
 
 <br>
 

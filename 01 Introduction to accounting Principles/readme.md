@@ -55,9 +55,17 @@ Interested Parties
 
 - To provide financial information
 
+> လုပ်ငန်းရဲ့ အခြေအနေ(financial ပြဿနာ၊ Long term သွားနိုင်တဲ့ လုပ်ငန်းဖြစ်လား စသည်ဖြင့်)
+
 ### The accounting equation
 
     Assets = Capital + Liabilities
+
+Assets = ပိုင်ဆိုင်မှု
+
+Capital = အရင်းအနှီး
+
+Liabilities = အကြွေး
 
 <br>
 

@@ -21,6 +21,8 @@
 | 11       | Perparation of financial statements for sole trader  |
 | 12       | Some adjustments for financial statements            |
 
+## 01 Introduction to accouting principles
+
 ### Aims of Business
 
 1. To make a profit (to choose which business make you the best profit)
@@ -66,6 +68,62 @@ Assets = ပိုင်ဆိုင်မှု
 Capital = အရင်းအနှီး
 
 Liabilities = အကြွေး
+
+    Assets =  Non-Current Assets + Current Assts
+
+    Liabilities = Non-Current Liabilities + Current Liabilities
+
+Current means within 1 year
+
+Non-Current means more than 1 year
+
+### Assets
+
+A resource controlled by the entity as result of past events and from which economic benefits are expected to flow to the entity.
+
+    Non-Current Asset = Machinery, Motor Vehicle, Building, Land, Equipment, Furnitures
+
+    Current Asset = Inventory, Trade Receivable, Cash, Banု
+
+#### Liability
+
+A Liability is a present obligation of the entity arising from past events, the settlement of which is expected to result in an outflow from the entity of resources embodying economic benefits.
+
+    Non-Current Liabilities = Long Term Loan
+
+    Current-Liabilities = Bank Overdraft, Trade Payable, Short Term Loan
+
+Equity (Capital)
+
+Equity is the residual interset in the assets of the entity after deducting all its liabilities.
+
+Questions
+
+1. Which of the items in the following list are liabiliites and which of them are assets?
+
+   a. Loan from A-Z
+
+   b. We owe a supplier
+
+   c. Equipment
+
+   d. Bank Overdraft
+
+   e. Inventory of goods held for sale
+
+   f. Loan to F.W
+
+2. Complete the gaps in the following table:
+
+| Assets    | Liabilities | Equity |
+| --------- | ----------- | ------ |
+| $         | $           | $      |
+| a. 20,000 | 3,400       | ?      |
+| b. 19,200 | ?           | 3,200  |
+| c. ?      | 7,900       | 17,300 |
+| d. ?      | 18,500      | 51,900 |
+
+3. P.Ltd is setting up a new business. Before actually selling anything, he bought a van for $13,000, a transportable market stall for $1,050; a computer for $450, and an inventory of goods for $8,000. He did not pay in full for his inventory of goods and still owes $3,000 for them. He borrowed $10,000 from Amy. After the events just described, and before trading starts, he has $1,400 cash in hand and $4,700 in the bank. Calculate the amount of his equity.
 
 <br>
 
